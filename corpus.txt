@@ -1,0 +1,46 @@
+I am a student
+I am learning natural language processing
+I am learning machine learning
+I am interested in data science
+I am working on an nlp project
+I am studying artificial intelligence
+I am using python for nlp
+I am building a bigram model
+I am predicting the next word
+I am reading text data
+I am processing language data
+I am learning about bigrams
+I am learning about language models
+I am understanding probability concepts
+I am improving my nlp skills
+I am training the model
+I am testing the model
+I am giving input sentence
+I am finding the last word
+I am predicting the next word
+I am analyzing text corpus
+I am using corpus data
+I am building word pairs
+I am counting bigram frequencies
+I am calculating probability
+I am selecting the best word
+I am improving prediction accuracy
+I am avoiding unigram model
+I am using only bigram model
+I am focusing on context
+I am applying nlp concepts
+I am implementing logic in python
+I am separating frontend and backend
+I am explaining project in viva
+I am confident about my project
+I am preparing for evaluation
+I am presenting my project
+I am learning step by step
+I am understanding the algorithm
+I am following nlp theory
+I am completing my assignment
+I am happy with the output
+I am confident in bigram model
+I am improving my coding skills
+I am interested in advanced nlp
+I am finishing this project
