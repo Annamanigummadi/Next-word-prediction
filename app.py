@@ -20,8 +20,8 @@ def predict_next_words(prev_word, top_n=3):
         if w1 == prev_word:
             probs[w2] = count / total_count[w1]
 
-    if not probs:
-        return ["No prediction found"]
+   if not probs:
+    return [("No prediction found", 0.0)]
     # Sort by probability
     sorted_words = sorted(probs.items(), key=lambda x: x[1], reverse=True)
     return sorted_words[:top_n]  # list of tuples (word, prob)
